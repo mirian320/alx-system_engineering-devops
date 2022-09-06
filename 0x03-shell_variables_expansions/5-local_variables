@@ -1,2 +1,2 @@
 #!/bin/bash
-echo //prints local,env and func
+set | less
