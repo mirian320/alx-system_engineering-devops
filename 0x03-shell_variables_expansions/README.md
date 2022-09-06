@@ -1,1 +1,1 @@
-initial of creation, and the exponent of breath
+Those who understand binary, and those who don't
